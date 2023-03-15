@@ -1,5 +1,5 @@
 # Concept, not complete.
-
+I am working on this! This github page is updated irregularly.
 # inefficient-lang
 An intentionally inefficiently, and horribly designed programming language which should never be used.
 
